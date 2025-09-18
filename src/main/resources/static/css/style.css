@@ -12,8 +12,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: white;
-    color: black;
+    background-color: #ffcc66;
+    color: #734d26;
 }
 
 .jumbotron {
